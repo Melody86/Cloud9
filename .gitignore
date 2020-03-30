@@ -1,0 +1,4 @@
+# vant dist
+cloud9/dist/*
+.git/*
+.DS_Store
